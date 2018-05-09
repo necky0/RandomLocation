@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RandomLocation</string>
+    <string name="example">example</string>
+    <string name="searching_for_gps">Searching for GPS</string>
+</resources>
